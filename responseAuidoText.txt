@@ -1,0 +1,13 @@
+WEBVTT
+
+NOTE
+Transcription provided by Deepgram
+Request Id: 1b942a73-80af-44a5-abe9-077716d5c1c0
+Created: 2022-10-15T07:30:13.607Z
+Duration: 4.9213123
+Channels: 1
+
+1
+00:00:00.139 --> 00:00:04.921
+- This is Peter. This is Johnny. Kenny and joe. We just wanted to take a minute to thank
+
