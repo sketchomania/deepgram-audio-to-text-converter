@@ -2,8 +2,8 @@ WEBVTT
 
 NOTE
 Transcription provided by Deepgram
-Request Id: 1b942a73-80af-44a5-abe9-077716d5c1c0
-Created: 2022-10-15T07:30:13.607Z
+Request Id: 695b7237-9006-4215-ad9e-6d19f43f5362
+Created: 2022-10-15T08:11:22.368Z
 Duration: 4.9213123
 Channels: 1
 
